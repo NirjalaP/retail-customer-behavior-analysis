@@ -42,13 +42,6 @@ This project answers these questions through SQL analysis and interactive busine
 
 ---
 
-# Dashboard Preview
-
-<p align="center">
-<img src="Screenshot/Dashboard.png" width="100%">
-</p>
-
----
 
 # Methodology
 
@@ -264,7 +257,6 @@ retail-customer-insights
 
 Potential future enhancements include:
 - Customer Lifetime Value (CLV) Analysis
-- RFM Customer Segmentation
 - Predictive Sales Forecasting
 - Tableau Public Deployment
 - Automated ETL Pipeline
