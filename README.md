@@ -10,7 +10,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-336791)
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627)
 ![GitHub](https://img.shields.io/badge/Git-Version%20Control-black)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 </p>
 
