@@ -1,7 +1,7 @@
 # Retail Customer Insights Dashboard
 
 <p align="center">
-  <img src="screenshot/dashboard.png" alt="Retail Customer Insights Dashboard" width="100%">
+  <img src="Screenshot/Dashboard.png" alt="Retail Customer Insights Dashboard" width="100%">
 </p>
 
 ## Project Overview
@@ -170,14 +170,3 @@ retail-customer-insights
 - Tableau Public deployment
 - Additional customer lifetime value (CLV) analysis
 
----
-
-## Author
-
-**Nirjala Prajapati**
-
-Graduate Student | Data Analytics | SQL | Tableau | Python
-
-LinkedIn: *(Add your LinkedIn profile)*
-
-GitHub: *(Add your GitHub profile)*
